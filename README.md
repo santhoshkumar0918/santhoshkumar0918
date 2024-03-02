@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @santhoshkumar0918
+- 👋 Hi, I’m @santhoshkumar
 - 👀 I’m interested in webdevelopment and web3
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on basics frontend projects
