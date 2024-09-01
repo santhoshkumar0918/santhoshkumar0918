@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhoshkumar0918&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshkumar0918" /> </p>
 
-- 🌱 I’m currently learning **reactjs**
+- 🌱 I’m currently learning **nextjs**
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
