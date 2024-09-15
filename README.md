@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santhoshkumar</h1>
-<h3 align="center">A passionate frontend developer and web3 enthusiasts</h3>
+<h3 align="center">A passionate frontend developer </h3>
 <img img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/ZApZiWZGsmhazMyJ1FJGqhVL44FGCfTx3cYQHlwdvV4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3pnZHVv/NGtXUlJEVksvZ2lw/aHkuZ2lmP2NpZD03/OTBiNzYxMXNqMHBu/cGU3a3JjNWR2Znh3/Z2NhMWdmcnJsNjB4/ZG1jMHg2bjk3aTMm/ZXA9djFfZ2lmc19z/ZWFyY2gmcmlkPWdp/cGh5LmdpZiZjdD1n.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhoshkumar0918&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshkumar0918" /> </p>
