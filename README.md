@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Frontend Developer</h3>
 
  # 💫 About Me:
-<br>    🌱 I’m currently learning cairo&&Zk
+<br>    🌱 I’m currently learning Nextjs && web3
 <br>    👯 I’m looking to collaborate on frontend projects<br>    📫 Reach me at santhoshkumarkbsv09@gmail.com<br>
 
 
