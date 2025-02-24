@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Fullstack Developer</h3>
 
  # 💫 About Me:
-<br>    🌱 I’m currently learning Ai agents (eliza as)</br>
+<br>    🌱 I’m currently learning Ai agents (eliza os , zerepy )</br>
    📫 Reach me at santhoshkumarkbsv09@gmail.com<br>
 
 
