@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santhoshkumar</h1>
-<h3 align="center">A Passionate Fullstack Developer</h3>
+<h3 align="center">A Fullstack Web3 Developer</h3>
 
  # 💫 About Me:
 <br>    🌱 I’m currently learning Ai agents (eliza os , zerepy )</br>
