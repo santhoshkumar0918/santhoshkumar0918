@@ -2,7 +2,7 @@
 <h3 align="center">A Fullstack Web3 Developer</h3>
 
  # 💫 About Me:
-<br>    🌱 I’m currently Diving deep into Smartcontracts ( Foundry , Defi protocols , Evm  )</br>
+<br>    🌱 I’m currently Diving deep into Smartcontracts (Defi protocols) ,Rust</br>
    📫 Reach me at santhoshkumarkbsv09@gmail.com<br>
 
 
